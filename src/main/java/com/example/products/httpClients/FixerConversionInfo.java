@@ -13,6 +13,8 @@ import lombok.ToString;
 @AllArgsConstructor
 @ToString
 public class FixerConversionInfo {
+	
+	private boolean success;
 	private long timestamp;
 	private String base;
 	private String date;

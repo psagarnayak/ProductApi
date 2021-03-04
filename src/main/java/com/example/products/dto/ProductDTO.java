@@ -2,8 +2,6 @@ package com.example.products.dto;
 
 import java.math.BigDecimal;
 
-import org.springframework.beans.factory.annotation.Value;
-
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import lombok.AllArgsConstructor;
